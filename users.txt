@@ -1,0 +1,4 @@
+021007090723;;;devraaj2002@gmail.com;;;12345;;;Devraaj Singh;;;Male
+123456096789;;;arash@gmail.com;;;345678;;;Arash;;;Male
+A123456;;;arashafsari4@gmail.com;;;Arash123;;;Arash;;;Male
+334445067895;;;john.micheals@mail.com;;;45678;;;John Micheals;;;Male

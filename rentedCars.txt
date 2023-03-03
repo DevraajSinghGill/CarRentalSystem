@@ -1,0 +1,12 @@
+devraaj2002@gmail.com;;;SUV;;;Mazda CX-5;;;2019;;;1000.0;;;2022-11-04;;;6;;;6000.0;;;Booked;;;Cash
+arashafsari4@gmail.com;;;SUV;;;Mazda CX-5;;;2019;;;1000.0;;;2022-11-21;;;7;;;7000.0;;;Booked;;;Card
+arashafsari4@gmail.com;;;SUV;;;Mazda CX-5;;;2019;;;1000.0;;;2022-11-21;;;31;;;31000.0;;;Booked;;;Cash
+arashafsari4@gmail.com;;;SUV;;;Mazda CX-5;;;2019;;;1000.0;;;2022-11-21;;;1;;;1000.0;;;Booked;;;Cash
+arashafsari4@gmail.com;;;Pickup Truck ;;;Toyota Hilux;;;2018;;;800.0;;;2022-11-21;;;1;;;800.0;;;Booked;;;Cash
+arashafsari4@gmail.com;;;SUV;;;Mazda CX-5;;;2019;;;1000.0;;;2022-11-21;;;2;;;2000.0;;;Booked;;;Cash
+arashafsari4@gmail.com;;;SUV;;;Mazda CX-5;;;2019;;;1000.0;;;2022-11-21;;;1;;;1000.0;;;Booked;;;Cash
+arashafsari4@gmail.com;;;Pickup Truck ;;;Toyota Hilux;;;2018;;;800.0;;;2022-12-06;;;2;;;1600.0;;;Booking Request;;;Card
+arashafsari4@gmail.com;;;SUV;;;Mazda CX-5;;;2019;;;1000.0;;;2022-12-06;;;6;;;6000.0;;;Booked;;;Cash
+arashafsari4@gmail.com;;;Pickup Truck ;;;Toyota Hilux;;;2018;;;800.0;;;2022-12-06;;;1;;;800.0;;;Booking Request;;;Cash
+devraaj2002@gmail.com;;;Pickup Truck ;;;Toyota Hilux;;;2018;;;800.0;;;2022-12-06;;;3;;;2400.0;;;Booked;;;Card
+devraaj2002@gmail.com;;;Sports Car ;;;Ferrari;;;2021;;;30000.0;;;2022-12-22;;;5;;;150000.0;;;Booking Request;;;Card

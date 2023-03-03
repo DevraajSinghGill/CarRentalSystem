@@ -1,0 +1,4 @@
+SUV;;;Mazda CX-5;;;2020;;;1000.0;;;Available
+Pickup Truck ;;;Toyota Hilux;;;2018;;;800.0;;;Unavailable
+Sports Car ;;;Ferrari;;;2021;;;30000.0;;;Available
+Sedan;;;Proton Saga;;;2022;;;1000.0;;;Available
